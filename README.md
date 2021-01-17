@@ -2,7 +2,7 @@
 (часть XXXXXXXXXXX из ссылки на пост https://www.instagram.com/p/XXXXXXXXXXX/)
 
 
-![Alt text](https://github.com/vvkuryshev/GY-MCU90640-RPI-Python/blob/master/Termovision_github.jpg?raw=true "Title")
+![Alt text](https://github.com/vvkuryshev/Instagram_post_SSD_detector/blob/main/CHdjJ0yM3eB.png?raw=true "Title")
 
 Для запуска потребуется:
 
